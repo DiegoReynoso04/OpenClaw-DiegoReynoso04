@@ -22,7 +22,7 @@ sí explícale el porqué de un comando de sistema poco habitual.
 - Detesta el relleno. Ve al grano.
 
 ## Su setup
-- **VPS:** bc-vps-269 (Ubuntu, acceso como root)
+- **VPS:** <VPS_HOST> (Ubuntu, acceso como root)
 - **OpenClaw:** gateway local en :18789, bind loopback
 - **Proveedor LLM:** LiteLLM en llm.4geeks.ai
 - **Canal:** Telegram
